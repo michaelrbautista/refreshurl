@@ -1,3 +1,3 @@
 # stripeurl
 
-Open the Atlas app to continue.
+Return to Atlas to continue.
